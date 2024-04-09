@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "249d",
+      "name": "Nisha",
+      "email": "nisha@test.com",
+      "password": "nisha@1234"
+    },
+    {
+      "id": "fdbe",
+      "email": "nandita@gmail.com",
+      "name": "Nandita",
+      "password": "nandu@1234"
+    },
+    {
+      "id": "3cda",
+      "email": "chinky@gmail.com",
+      "name": "Chinky",
+      "password": "Chinky@17"
+    },
+    {
+      "id": "657b",
+      "email": "dolly@gmail.com",
+      "name": "Dolly",
+      "password": "dolly@1234"
+    },
+    {
+      "id": "24d6",
+      "email": "sam@gmail.com",
+      "name": "Sam",
+      "password": "sam@1234"
+    },
+    {
+      "id": "654b",
+      "email": "jay@gmail.com",
+      "name": "Jay",
+      "password": "jay@1234"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "KFC",
+      "address": "Ahmedabad",
+      "contact": "1112"
+    },
+    {
+      "id": "2",
+      "name": "Salidfic",
+      "address": "Ahmedabad",
+      "contact": "2221"
+    },
+    {
+      "id": "3",
+      "name": "Burger King",
+      "address": "Ahmedabad",
+      "contact": "333"
+    }
+  ]
+}
