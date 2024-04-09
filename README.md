@@ -5,3 +5,7 @@
     * Command: npm install json-server
     * To start server, run the following command in cmd: json-server --watch db.json
 * Axios package for API integration
+
+## To run the project: ##
+* After downloading/cloning the project, install node_modules
+* Run the application using **npm run serve** command
